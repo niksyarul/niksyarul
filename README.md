@@ -7,5 +7,8 @@
 
 ## Github's Statistics
 <a href="https://github.com/niksyarul">
-  <img src='https://github-readme-stats.vercel.app/api?username=niksyarul&show_icons=true&theme=prussian&include_all_commits=true&count_private=true'></img>
+  <img src='https://github-readme-stats.vercel.app/api?username=niksyarul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true' height="200"></img>
+</a>
+<a href="https://github.com/niksyarul">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=niksyarul&langs_count=3&theme=algolia' height="200"></img>
 </a>
